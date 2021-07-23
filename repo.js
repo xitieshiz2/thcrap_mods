@@ -7,5 +7,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/xitieshiz2/thcrap_mods/master/"
 	],
-	"title": "XiTieShiZ's thprac mods"
+	"title": "XiTieShiZ's thcrap mods"
 }
